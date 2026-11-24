@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- three crossing arms -->
+    <path android:strokeColor="#81D4FA" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M54,26 L54,82" />
+    <path android:strokeColor="#81D4FA" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M29.8,40 L78.2,68" />
+    <path android:strokeColor="#81D4FA" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M29.8,68 L78.2,40" />
+    <!-- tips on vertical arm -->
+    <path android:strokeColor="#81D4FA" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M47,33 L54,40 L61,33 M47,75 L54,68 L61,75" />
+    <!-- tips on diagonal arms -->
+    <path android:strokeColor="#81D4FA" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M31,50 L38,47 L36,40 M77,58 L70,61 L72,68" />
+    <path android:strokeColor="#81D4FA" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M31,58 L38,61 L36,68 M77,50 L70,47 L72,40" />
+</vector>
